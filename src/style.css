@@ -1,0 +1,10 @@
+img {
+    border-style: solid;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+
+
